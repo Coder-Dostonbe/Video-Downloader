@@ -1,0 +1,5 @@
+python-telegram-bot==13.15
+instaloader
+yt-dlp
+python-dotenv
+imageio-ffmpeg

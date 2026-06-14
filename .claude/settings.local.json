@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "PowerShell(C:\\\\Users\\\\user\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python39\\\\python.exe -m pip install imageio[ffmpeg] 2>&1; C:\\\\Users\\\\user\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python39\\\\python.exe -c \"import imageio; imageio.plugins.ffmpeg.download\\(\\)\" 2>&1)",
+      "PowerShell(C:\\\\Users\\\\user\\\\AppData\\\\Local\\\\Programs\\\\Python\\\\Python39\\\\python.exe -c \"import imageio_ffmpeg; print\\(imageio_ffmpeg.get_ffmpeg_exe\\(\\)\\)\")"
+    ]
+  }
+}
